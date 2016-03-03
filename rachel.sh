@@ -6,3 +6,4 @@ do
 	bash goostats -J 100 -r $datafile stats-$datafile
 #this is a  change
 done
+#all your bases belong to us
